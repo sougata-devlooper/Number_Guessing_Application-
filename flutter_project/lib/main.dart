@@ -30,11 +30,11 @@ class _NumberGuesserAppState extends State<NumberGuesserApp> {
       themeMode: _themeMode,
       theme: ThemeData(
         brightness: Brightness.light,
-        fontFamily: GoogleFonts.vt323().fontFamily,
+        fontFamily: 'VT323',
       ),
       darkTheme: ThemeData(
         brightness: Brightness.dark,
-        fontFamily: GoogleFonts.vt323().fontFamily,
+        fontFamily: 'VT323',
       ),
       home: GameScreen(
         onToggleTheme: toggleTheme,
