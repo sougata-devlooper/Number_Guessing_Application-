@@ -5,20 +5,20 @@ A bold, interactive, and visually striking number guessing game built with a mod
 ## Screenshots
 ### Old version
 <p align="center">
-  <img src="interface/materials/ss1_1.png" alt="Screenshot 1.1" width="500"/>
-  <img src="interface/materials/ss1_2.png" alt="Screenshot 1.2" width="500"/>
+  <img src="interface/materials/ss1_1.png" alt="Screenshot 1.1" width="50%"/>
+  <img src="interface/materials/ss1_2.png" alt="Screenshot 1.2" width="50%"/>
 </p>
 
 ### New verison
 <p align="center">
-  <img src="interface/materials/ss2_1.png" alt="Screenshot 1.1" width="500"/>
-  <img src="interface/materials/ss2_2.png" alt="Screenshot 1.2" width="500"/>
+  <img src="interface/materials/ss2_1.png" alt="Screenshot 1.1" width="50%"/>
+  <img src="interface/materials/ss2_2.png" alt="Screenshot 1.2" width="50%"/>
 </br>
-  <img src="interface/materials/ss3_1.png" alt="Screenshot 1.1" width="500"/>
-  <img src="interface/materials/ss3_2.png" alt="Screenshot 1.2" width="500"/>
+  <img src="interface/materials/ss3_1.png" alt="Screenshot 1.1" width="50%"/>
+  <img src="interface/materials/ss3_2.png" alt="Screenshot 1.2" width="50%"/>
 </br>
-  <img src="interface/materials/ss4_1.png" alt="Screenshot 1.1" width="500"/>
-  <img src="interface/materials/ss4_2.png" alt="Screenshot 1.2" width="500"/>
+  <img src="interface/materials/ss4_1.png" alt="Screenshot 1.1" width="50%"/>
+  <img src="interface/materials/ss4_2.png" alt="Screenshot 1.2" width="50%"/>
 </p>
 
 👉 **[Try out by your own](https://number-guessing-application-one.vercel.app/)**
