@@ -10,12 +10,16 @@ A bold, interactive, and visually striking number guessing game built with a mod
 </p>
 
 ### New verison
-![Game Screenshot](./interface/materials/ss2_1.png)
-![Game Screenshot](./interface/materials/ss2_2.png)  
-![Game Screenshot](./interface/materials/ss3_1.png)
-![Game Screenshot](./interface/materials/ss3_2.png)  
-![Game Screenshot](./interface/materials/ss4_1.png)
-![Game Screenshot](./interface/materials/ss4_2.png)
+<p align="center">
+  <img src="interface/materials/ss2_1.png" alt="Screenshot 1.1" width="500"/>
+  <img src="interface/materials/ss2_2.png" alt="Screenshot 1.2" width="500"/>
+</br>
+  <img src="interface/materials/ss3_1.png" alt="Screenshot 1.1" width="500"/>
+  <img src="interface/materials/ss3_2.png" alt="Screenshot 1.2" width="500"/>
+</br>
+  <img src="interface/materials/ss4_1.png" alt="Screenshot 1.1" width="500"/>
+  <img src="interface/materials/ss4_2.png" alt="Screenshot 1.2" width="500"/>
+</p>
 
 👉 **[Try out by your own](https://number-guessing-application-one.vercel.app/)**
 
@@ -29,9 +33,11 @@ Here’s how the magic unfolds:
 
 - You enter a number between **1 and 100** (and yes, you can just hit **Enter** to submit ⚡).
 - The game instantly reacts with **dynamic, emoji-filled feedback**:
-  - 🔥 *“Very close! Think higher”*
-  - 🙂 *“Close! Try lower”*
-  - ❄️ *“Way off! Go higher”*
+  - 🔥 *“Burning hot! ⬇️ Go lower”*
+  - 🔥 *“Very warm! ⬆️ Go higher”*
+  - 🔥 *“Getting warm! ⬇️ Go lower”*
+  - ❄️ *“Cold! ⬆️ Go higher”*
+  - 🧊 *“Freezing Cold! ⬇️ Go lower”*
 - Every guess triggers:
   - 💥 A **screen “pop” animation** that makes feedback feel alive
   - 🟦 A **bouncy, physical button click effect** (neo-brutalism at its finest)
@@ -56,7 +62,7 @@ It’s not just a game… it’s an *experience*.
 - **Gunicorn** – Production-ready WSGI server
 
 ### 📱 App
-- **Flutter** – Making App for Android & IOS
+- **Flutter** – Making App for Android
 
 ---
 
