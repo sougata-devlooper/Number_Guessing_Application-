@@ -2,10 +2,16 @@
 
 A bold, interactive, and visually striking number guessing game built with a modern **neo-brutalist UI** and smooth backend logic.
 
+## Screenshots
+### Old version
 ![Game Screenshot](./interface/materials/ss1.png)  
 ![Game Screenshot](./interface/materials/ss2.png)  
 
-👉 **[Try out by your own](https://number-guessing-game-one-ashy.vercel.app/)**
+### New verison
+![Game Screenshot](./interface/materials/ss3.png)  
+![Game Screenshot](./interface/materials/ss4.png) 
+
+👉 **[Try out by your own](https://number-guessing-application-one.vercel.app/)**
 
 ---
 
@@ -43,13 +49,16 @@ It’s not just a game… it’s an *experience*.
 - **Vercel** – Hosting platform
 - **Gunicorn** – Production-ready WSGI server
 
+### 📱 App
+- **Flutter** – Making App for Android & IOS
+
 ---
 
 ## 👥 Team & Credits
 
 This project is a result of strong collaboration and clear division of roles:
 
-- **Sougata**  
+- **Sougata (Github: sougata-devlooper)**  
   ➤ Handled the complete **Backend architecture** (Flask server, game logic, API routing)
 
 - **Adarsh (GitHub: adarsh-clushXD)**  
