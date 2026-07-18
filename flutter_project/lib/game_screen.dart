@@ -24,7 +24,6 @@ class GameScreen extends StatefulWidget {
 class _GameScreenState extends State<GameScreen> with TickerProviderStateMixin {
   final GameState _gameState = GameState();
   final TextEditingController _guessController = TextEditingController();
-  final TextEditingController _guessController = TextEditingController();
   final FocusNode _guessFocus = FocusNode();
   
   late ConfettiController _confettiController;
