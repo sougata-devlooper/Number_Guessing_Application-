@@ -12,7 +12,9 @@ A bold, interactive, and visually striking number guessing game built with a mod
   <img src="./interface/materials/ss_m_3_2.jpeg" alt="Screenshot 6" width="200"/>
 </p>
 
-👉 **[Try out by your own](https://number-guessing-application-one.vercel.app/)**
+## Bit-Guess-Web
+
+👉 **[Try out the web version](https://github.com/sougata-devlooper/Bit-Guess-web.git)**
 
 ---
 
